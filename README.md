@@ -8,10 +8,10 @@ Este projeto demonstra algumas opções para a criação de micro interações e
 
 ## Como executar a demo
 
-###`npm install`
-Instala as dependências do projeto.\
+Para instala as dependências do projeto:
+### `npm install`
 
+Executa o projeto em modo de desenvolvimento:
 ### `npm start`
-Executa o projeto em modo de desenvolvimento.\
 
 Visite [http://localhost:3000](http://localhost:3000) no seu navegador para visualizar o conteudo.
